@@ -52,3 +52,9 @@ a:visited, :link {
 #contactme, #welcome-section, #project-title {
     font-family: 'Raleway', sans-serif;
 }
+
+@media (max-width: 991px) {
+    #projectcard {
+        margin: 1rem 0;
+    }
+}
